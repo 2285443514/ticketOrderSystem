@@ -1,2 +1,2 @@
-# ticketOrderSystem
+# 航空机票订票系统
 使用QT模拟简单的机票订票系统，数据以txt文件形式保存在本地
